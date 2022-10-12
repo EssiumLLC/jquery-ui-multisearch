@@ -1027,8 +1027,8 @@
       _showPicker: function() {
 
          this.$picker.show();
-         this.pickerVisible = true;
 
+         this.pickerVisible = true;
          this.$picker.position({
             my: this.options.pickerPosition.my,
             at: this.options.pickerPosition.at,
